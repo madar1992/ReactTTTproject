@@ -1,0 +1,13 @@
+{
+  "name": "employee-master",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "react-router-dom": "^6.11.2"
+  }
+  
+}
